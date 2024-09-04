@@ -62,7 +62,7 @@ img {
   overflow: hidden;
   border: 1px solid var(--border);
   text-align: left;
-
+  height: 400px;
 }
 
 .post__header {
